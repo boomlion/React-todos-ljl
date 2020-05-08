@@ -1,0 +1,22 @@
+.input{
+  height: 50px;
+  margin: auto;
+  position: relative;
+}
+.button{
+  width: 90px;
+  height: 30px;
+  border-radius: 4px;
+  margin-left: 10px;
+}
+.subinput{
+  height: 26px;
+  width: 200px;
+  margin: auto;
+}
+.form{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%)
+}

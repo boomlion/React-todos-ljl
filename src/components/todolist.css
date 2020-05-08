@@ -1,0 +1,8 @@
+.ullist{
+  width: 200px;
+  max-height: 200px;
+  min-height: 100px;
+  margin: auto;
+  overflow-x: auto;
+  overflow-y: auto;
+}
